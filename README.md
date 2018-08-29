@@ -1,2 +1,2 @@
 # sql
-Practice writing queries using sakila database.
+SQL analysis of sample sakila database.
